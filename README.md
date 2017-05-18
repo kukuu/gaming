@@ -19,7 +19,7 @@ Third Party Libraries:  NONE
 
 ##### Games-n:
 
-All games have additional instructions in their aplication files.
+All games have additional instructions in their application files.
 
 	1. game-1.html : Written in Vanilla JavaScript
 
