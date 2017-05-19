@@ -8,11 +8,9 @@
 ##### Summary:
 
 	Games are from R&D and POC projects. The construction is based on an iteration AGILE process.
-	 The finalised item is game 4. 
-	They  have been  written in Vanilla JavaScript, and in HTML5.
+	The finalised item is game 4. They  have been  written in Vanilla JavaScript, and in HTML5.
 
 	The benefit of releasing it as part of an AGILE process are labelled further below
-
 
 	It is recommended to read the development and iterations in games 1, 2 and 3 leading to  game 4.
 
@@ -78,8 +76,8 @@ All games have additional instructions in their application files.
 
 	Agile development principles encourage active user involvement throughout the product’s 
 	development and a very cooperative collaborative approach. This provides excellent visibility
-	  for key stakeholders, both of the project’s progress and of the product itself, 
-	  which in turn helps to ensure that expectations are effectively managed.
+	for key stakeholders, both of the project’s progress and of the product itself, 
+	which in turn helps to ensure that expectations are effectively managed.
 
 
 #### 5. Risk Management
@@ -114,10 +112,10 @@ All games have additional instructions in their application files.
 #### 8. Business Engagement/Customer Satisfaction
  
 	The active involvement of a user representative and/or product owner, the high visibility
-	  of the product and progress, and the flexibility to change when change is needed, 
-	  create much better business engagement and customer satisfaction. 
-	  This is an important benefit that can create much more positive and 
-	  enduring working relationships.
+	of the product and progress, and the flexibility to change when change is needed, 
+	create much better business engagement and customer satisfaction. 
+	This is an important benefit that can create much more positive and 
+	enduring working relationships.
 
 
 #### 9. Right Product
