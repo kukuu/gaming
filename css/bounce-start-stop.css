@@ -1,0 +1,32 @@
+ 
+ body {
+ 	margin-top: 10%
+ 	margin-left: 30%;
+ }
+
+ canvas { 
+      border:1px solid #000;
+  }
+
+  #my_canvas {
+  	border: 3px solid #ff0000;
+  	background-color: #ffcc33; 
+  	border-radius: 25px;
+  }
+
+  #wrapper {
+  	width:650px;
+  	height:400px;
+  	margin-top: 5%;
+  	margin-left: 30%
+  }
+
+  button {
+  	margin-left: 25%;
+  	margin-top: 10px;
+  }
+
+  h1 {
+  	font-size: 16px;
+  	text-align: center;;
+  }
