@@ -20,9 +20,9 @@
 	Cross Browser Compatible 
 
 
-##### Performance Compatibility 
+##### Performance 
 
-	Lighter and Cross Browser. Reliant on Native JavaScript and the browsers.
+	Lighter and Cross Browser compliant. Reliant on Native JavaScript and  Browser capability.
 
 
 ##### Dependencyies
