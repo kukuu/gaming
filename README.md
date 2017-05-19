@@ -130,10 +130,12 @@ All games have additional instructions in their application files.
 
 #### 10. More Enjoyable!
 
-The active involvement, cooperation and collaboration make agile development teams 
-a much more enjoyable place for most people. Instead of big specs, we discuss 
-requirements in workshops. Instead of lengthy status reports, we collaborate around
-a task-board discussing progress. Instead of long project plans and change management
-committees, we discuss what’s right for the product and project and the team is empowered
-to make decisions. In my experience this makes it a much more rewarding approach for everyone.
-In turn this helps to create highly motivated, high performance teams that are highly co-operative.
+	The active involvement, cooperation and collaboration make agile development teams 
+	a much more enjoyable place for most people. Instead of big specs, we discuss 
+	requirements in workshops. Instead of lengthy status reports, we collaborate around
+	a task-board discussing progress. Instead of long project plans and change management
+	committees, we discuss what’s right for the product and project and the team is empowered
+	to make decisions. 
+
+	In my experience this makes it a much more rewarding approach for everyone.
+	In turn this helps to create highly motivated, high performance teams that are highly co-operative.
